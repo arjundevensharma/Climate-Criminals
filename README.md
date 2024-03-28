@@ -1,3 +1,7 @@
+# Climate Criminals
+
+Honourable mention at the HackKurius hackathon out of 937 participants.
+
 ## Inspiration
 
 In a world where corporations are responsible for up to 70% of global greenhouse gas emissions, it's crucial to address the root of climate change: consumer support for these corporations. Our extension directly empowers consumers with a source of objective information to make informed, sustainable choices amidst a sea of corporate misinformation in the fast-paced online landscape.
